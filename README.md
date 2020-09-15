@@ -28,7 +28,7 @@ ApkBuilder.AAPT.compile();
 Example ECJ Usage :
 
 ```groovy
-ApkBuilder.ECJ.setSourceVersion("1.7);
+ApkBuilder.ECJ.setSourceVersion("1.7");
 ApkBuilder.ECJ.setTargetVersion("1.7");
 ApkBuilder.ECJ.setClassesDir(path_classes_folder);
 ApkBuilder.ECJ.addJarFile(path_dependencies_jar_file);
