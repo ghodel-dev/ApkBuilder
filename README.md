@@ -1,17 +1,18 @@
 # ApkBuilder V.1
 
-Required :
+## Required :
 
 Download All File On Library Folder
 
-How To Use :
+## How To Use :
 
 Put Code onCreate
 ApkBuilder.init(this);
 
 Example AAPT Usage :
 
-```ApkBuilder.AAPT.setMinSdkVersion(minSdkVer);
+```groovy
+ApkBuilder.AAPT.setMinSdkVersion(minSdkVer);
 ApkBuilder.AAPT.setMaxSdkVersion(targetSdkVersion);
 ApkBuilder.AAPT.setVerCode(verCode);
 ApkBuilder.AAPT.setVerName(verName);
@@ -21,7 +22,7 @@ ApkBuilder.AAPT.addDirResource(path_res_folder);
 ApkBuilder.AAPT.setPathBinDir(path_bin_folder);
 ApkBuilder.AAPT.setPathGenDir(path_gen_folder);
 ApkBuilder.AAPT.setPathApkRes(path_apk_res_output);
-ApkBuilder.AAPT.compile();
+ApkBuilder.AAPT.compile();```
 
 Example ECJ Usage :
 
