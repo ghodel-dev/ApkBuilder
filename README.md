@@ -74,9 +74,9 @@ ApkBuilder.Signer.sign();
 
 
 ## Changelog V.1 :
-- added AAPT V1
-- added ECJ
-- added DX 1.16
-- added R8 2.0.88
-- added SDKLIB 26
-- added APKSIGNER
+- _added AAPT V1_
+- _added ECJ_
+- _added DX 1.16_
+- _added R8 2.0.88_
+- _added SDKLIB 26_
+- _added APKSIGNER_
