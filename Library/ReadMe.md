@@ -7,3 +7,9 @@ Download `ApkBuilder.zip` then Extract it.
 
 ## Note !!!
 - `Library.apk` is executor, doesnt to install 🙂
+
+## Zip Password
+
+```groovy
+Password : giveme$25:v
+```
