@@ -11,5 +11,5 @@ Download `ApkBuilder.zip` then Extract it.
 ## Zip Password
 
 ```groovy
-Password : giveme$25:v
+Password : giveme$25:)
 ```
